@@ -1,6 +1,6 @@
 # simple_notes_app
 A simple note app. The app is using the "OpenContainer" animation from Flutter's official animations package.
-Also using stagerred grid tile to dynamically adjust the Card's size based on how long the text is.
+Also using staggered grid tile to dynamically adjust the Card's size based on how long the text is.
 
 ## Preview
 <img src="https://github.com/danuhadi-w/simple_notes_app/assets/131933367/18bcc5c8-b383-47bb-9cd2-305e75bc7732" width="25%" height="25%">
