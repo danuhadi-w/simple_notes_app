@@ -1,5 +1,5 @@
 # simple_notes_app
-A simple note app. The app is using the "OpenContainer" animation from Flutter's official animations package.
+A simple note app with GetX state management. The app is using the "OpenContainer" animation from Flutter's official animations package.
 Also using staggered grid tile to dynamically adjust the Card's size based on how long the text is.
 
 ## Preview
